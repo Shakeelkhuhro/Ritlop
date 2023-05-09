@@ -30,8 +30,8 @@ RitLop is a freelance website that is designed for freelancers to showcase their
 1. Apply for freelance projects
 1. Build their online presence and reputation
 
-**Clients can use RitLop to:** 
-(For now it is designed for Freelancer, in future, it can be used as follows)
+**Clients can use RitLop to:** <br>
+(For now it is designed for Freelancer, in future, it can be used for Clients as follows)
 1. Browse freelancer profiles and portfolios
 1. Post projects and connect with freelancers
 1. Hire freelancers for their projects
