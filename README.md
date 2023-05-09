@@ -1,4 +1,4 @@
-# RitLop 
+# Ritlop 
 Ritlop is a Freelance website template built using HTML, CSS, and JavaScript. It includes four main pages: Home, About, Services, and Contact Us. The website is fully responsive and optimized for various screen sizes, including desktops, tablets, and mobile devices.
 
 # Features
@@ -21,16 +21,16 @@ The website was built using the following technologies:
 1. Bootstrap: for creating responsive and mobile-friendly design.
 
 # Usage
-RitLop is a freelance website that is designed for freelancers to showcase their skills and find work. It has a modern and professional design, making it perfect for freelancers in a variety of industries.
+Ritlop is a freelance website that is designed for freelancers to showcase their skills and find work. It has a modern and professional design, making it perfect for freelancers in a variety of industries.
 
-**Freelancers can use RitLop to:**
+**Freelancers can use Ritlop to:**
 1. Display their portfolio and past work
 1. Showcase their skills and expertise
 1. Connect with potential clients
 1. Apply for freelance projects
 1. Build their online presence and reputation
 
-**Clients can use RitLop to:** <br>
+**Clients can use Ritlop to:** <br>
 (For now it is designed for Freelancer, in future, it can be used for Clients as follows)
 1. Browse freelancer profiles and portfolios
 1. Post projects and connect with freelancers
