@@ -33,10 +33,10 @@ These dependencies are included in the repository, so you don't need to install 
 To customize the website, you can modify the HTML files in the pages folder, the CSS files in the css folder, and the JavaScript files in the js folder.<br> The website uses the Bootstrap framework for layout and styling, so you can use the Bootstrap documentation to learn how to modify the layout and styles.
 
 # Credits
-This website template was built by Shakeel Khuhro, based on a design by Rehan Mehdi.<br> The template uses the following resources:
+This website template was built by Shakeel Khuhro, based on a design by Rehan Mehdi and Junaid Ali.<br> The template uses the following resources:
 
-Bootstrap: https://getbootstrap.com/
-jQuery: https://jquery.com/
-Popper.js: https://popper.js.org/
+1. Bootstrap: https://getbootstrap.com/
+1. jQuery: https://jquery.com/
+1. Popper.js: https://popper.js.org/
 
 **Thank You**
