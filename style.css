@@ -5,12 +5,18 @@
 }
 
 body {
+    padding-top: 57px;
     font-family: 'Poppins', sans-serif;
     color: whitesmoke;
 }
 
 .navbar {
     background-color: #343a40;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        z-index: 999;     
 }
 
 .navbar-brand,
@@ -19,6 +25,7 @@ body {
 }
 
 .hero-text {
+    top: 5rem;
     color: whitesmoke;
     height: 90vh;
     display: flex;
