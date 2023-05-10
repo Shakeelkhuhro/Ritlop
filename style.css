@@ -12,11 +12,11 @@ body {
 
 .navbar {
     background-color: #343a40;
-        position: fixed;
-        top: 0;
-        left: 0;
-        width: 100%;
-        z-index: 999;     
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 999;
 }
 
 .navbar-brand,
@@ -121,4 +121,21 @@ body {
     display: block;
     margin: 0 auto;
     padding: 15rem 3.5rem;
+}
+
+
+
+
+/* About Section styling */
+#about {
+    background-color: #164376;
+    color: #fff;
+}
+
+.about-heading{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 3rem;
 }
