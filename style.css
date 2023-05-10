@@ -128,8 +128,8 @@ body {
 
 /* About Section styling */
 #about {
-    background-color: #164376;
-    color: #fff;
+    background-color: #164376 !important;
+    color: #fff !important;
 }
 
 .about-heading{
