@@ -71,8 +71,9 @@ body {
     }
 
     .hero-text-flex-2 {
+        display: none !important;
         width: 100% !important;
-        height: 50%;
+        height: 40%;
     }
 
     .hero-text p,
@@ -138,11 +139,18 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 3rem;
+    padding: 0.9rem;
+    text-align: justify;
 }
 
 
 /*  Footer */
+
+footer{
+    background: #164376;
+    color: #fff;
+}
 .text-center{
     background-color: #343a40;
+    color: #fff;
 }
