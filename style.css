@@ -23,7 +23,10 @@ body {
 .navbar-brand,
 .navbar-nav .nav-link {
     color: #fff;
+    margin: 0 5rem;
 }
+
+
 
 .hero-text {
     top: 5rem;
@@ -61,6 +64,12 @@ body {
         align-items: center;
         overflow: hidden;
         width: 100%;
+    }
+
+    .navbar-brand,
+    .navbar-nav .nav-link {
+        color: #fff;
+        margin: 0;
     }
 
     .hero-text-flex-1 {
@@ -134,7 +143,7 @@ body {
     color: #fff !important;
 }
 
-.about-heading{
+.about-heading {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -171,7 +180,8 @@ body {
     margin-bottom: 30px;
 }
 
-.services-list div h2 {
+.services-list div h2,
+h4 {
     font-size: 30px;
     font-weight: 500;
     margin-bottom: 15px;
@@ -191,26 +201,87 @@ body {
 }
 
 
+/* Contact us */
+
+/* Contact Section */
+#contact {
+    background-color: #164376;
+    padding: 80px 0;
+    color: #fff;
+}
+
+.contact-form {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.contact-form label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.contact-form input[type="text"],
+.contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.contact-form button {
+    padding: 10px 20px;
+    background-color: #fff;
+    color: #343a40;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.contact-form button:hover {
+    background-color: #fff;
+}
+
+/* WhatsApp Contact Button */
+.whatsapp-contact {
+    position: fixed;
+    bottom: 2.5rem;
+    right: 2.5rem;
+    display: flex;
+    align-items: center;
+    padding: 10px 15px;
+    background-color: green;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.whatsapp-contact i {
+    margin: 0;
+}
+
 
 
 
 
 /*  Footer */
 
-footer{
+footer {
     background: #020407;
     color: #fff;
 }
-.text-center{
+
+.text-center {
     background-color: #343a40;
     color: #fff;
 }
 
-.col ul{
+.col ul {
     list-style: none;
     padding-left: 0;
 }
 
-.col ul a{
+.col ul a {
     text-decoration: none;
 }
